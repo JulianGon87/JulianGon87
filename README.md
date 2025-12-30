@@ -1,6 +1,6 @@
 # Hi 👋, I'm Julian Gonzalez
 
-### An experienced Html developer
+### A Tech Solutions Innovator
 
 - 🔭 I'm currently working on **Building AI content automation, community management systems, and data processing tools with Supabase, while crafting interactive web interfaces.**
 
